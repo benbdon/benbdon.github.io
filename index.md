@@ -15,7 +15,7 @@ I'm on a journey to capture achievements and current struggles in robotics journ
 
 # Get in Touch
 <ul>
-<li> <a href="https://github.com/benbdon/HelloWorld">Hell World Project </a><li>
+<li> <a href="https://github.com/benbdon/HelloWorld">Hello World Project </a></li>
 <li> <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
 <li> <a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
 </ul>
