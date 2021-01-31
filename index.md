@@ -5,6 +5,13 @@ Robotics
 
 # My Blog
 I'm on a journey to capture achievements and current struggles in robotics journey
+<ul>
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }} </a>
+        </li>
+    {% endfor %}
+</ul>
 
 # Get in Touch
 <ul>
